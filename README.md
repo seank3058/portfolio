@@ -1,7 +1,3 @@
-Collection of projects demonstrating basic methods in machine learning, data science, data pre-processing, and analytics.
-
----
-
 ## Psychology of Human Misjudgment
 `psychology_of_misjudgment.ipynb`
 This notebook demonstrates basic methods of machine learning. It also illustrates the psychological tendencies described in Poor Charlie's Almanack using real-world industry data.
