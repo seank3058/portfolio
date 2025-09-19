@@ -52,6 +52,7 @@ This project implements a data pipeline for retrieving, cleaning, and analyzing 
 - Demonstrates financial data retrieval, cleaning, and initial exploratory analysis
 `data_preprocessing_analytics_part2.ipynb`
 - Merges datasets, handles missing values, and applies an investment checklist
+
 `data/`
 - Contains processed CSV files such as:
   - `sp500_constituents.csv`
