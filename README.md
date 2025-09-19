@@ -1,4 +1,4 @@
-This repository is a collection of Jupyter notebooks demonstrating basic methods of machine learning, data science, data pre-processing, and analytics.
+Collection of projects demonstrating basic methods in machine learning, data science, data pre-processing, and analytics
 
 ---
 
