@@ -26,9 +26,9 @@ This project demonstrates psychological tendencies described in Poor Charlie's A
 
 ### Repository Structure
 
-#### `psychology_of_misjudgment.ipynb`
+`psychology_of_misjudgment.ipynb`
 - Notebook demonstrating reward/punishment and doubt-avoidance tendencies with real-world data analysis and machine learning
-#### `data/`
+`data/`
 - `insurance_nico.csv`, `insurance_industry.csv` - premium volumes and underwriting profits
 - `american_express.csv`, `visa.csv`, `mastercard.csv` - cards-in-force, transaction volumes, pretax income
 
@@ -48,17 +48,17 @@ This project implements a data pipeline for retrieving, cleaning, and analyzing 
 
 ### Repository Structure
 
-#### `data_preprocessing_analytics_part1.ipynb`
+`data_preprocessing_analytics_part1.ipynb`
 - Demonstrates financial data retrieval, cleaning, and initial exploratory analysis
-#### `data_preprocessing_analytics_part2.ipynb`
+`data_preprocessing_analytics_part2.ipynb`
 - Merges datasets, handles missing values, and applies an investment checklist
-#### `data/`
+`data/`
 - Contains processed CSV files such as:
   - `sp500_constituents.csv`
   - `income_statement.csv`, `balance_sheet.csv`, etc.
   - `index_data.csv` and `index_1yr_returns.csv`
   - `merged_financial_data.csv`
-#### `renames.json`
+`renames.json`
 - JSON mapping for renaming columns consistently across datasets
 
 ### Technical Skills
