@@ -13,3 +13,5 @@ This notebook demonstrates basic methods of machine learning. It also illustrate
 `data_preprocessing_analytics_part1.ipynb`
 `data_preprocessing_analytics_part2.ipynb`
 These notebooks demonstrate basic methods of data pre-processing and analytics. 
+- Retrieval, pre-processing, analytics, and visualiazations of S&P 500 constituent data
+- Illustration of a common-sense investment checklist
