@@ -1,4 +1,4 @@
-This repository is a collection of Jupyter notebooks demonstrating basic methods of machine learning, data pre-processing, visualization, and analytics.
+This repository is a collection of Jupyter notebooks demonstrating basic methods of machine learning, data science, data pre-processing, and analytics.
 
 ---
 
@@ -62,6 +62,6 @@ This project implements a data pipeline for retrieving, cleaning, and analyzing 
 - JSON mapping for renaming columns consistently across datasets
 
 ### Technical Skills
-- Python: pandas, NumPy, reqeusts
+- Python: pandas, NumPy, requests
 - Visualization: matplotlib, seaborn
 - Environment Management: python-dotenv for secure API key handling
