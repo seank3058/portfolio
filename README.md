@@ -1,4 +1,4 @@
-Collection of projects demonstrating basic methods in machine learning, data science, data pre-processing, and analytics
+Collection of projects demonstrating basic methods in machine learning, data science, data pre-processing, and analytics.
 
 ---
 
