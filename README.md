@@ -13,7 +13,7 @@ This project demonstrates psychological tendencies described in Poor Charlie's A
 - Doubt-Avoidance Tendency
   - Illustrated with credit card industry data (American Express, Visa, Mastercard)
   - Applied **linear regression** to examine the relationship between cards-in-force, transaction volumes, and pretax income
-  - Showed why common assumptions about Amex's superior scaling (due to closed-loop network) are false
+  - Showed how common assumptions about Amex's superior scaling (due to closed-loop network) are false
 - Data Processing & Feature Engineering
   - Merged CSV datasets with pandas for insurance and credit card companies
   - Engineered features such as percentage growth rates
