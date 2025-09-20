@@ -1,4 +1,3 @@
-# Project Portfolio
 A portfolio of data science and machine learning projects applied to behavioral and financial datasets, including psychology-based tendencies from *Poor Charlie’s Almanack* and large-scale S&P 500 data engineering.
 
 Tools & Libraries: Python · Pandas · NumPy · scikit-learn · Matplotlib · Seaborn · Jupyter · Requests · Dotenv
