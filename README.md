@@ -1,5 +1,5 @@
 # Project Portfolio
-This repository demonstrates applications of data processing and machine learning. Projects include engineering datasets with S&P 500 constituents and applying psychology-based tendencies from *Poor Charlie's Almanack* to real-world business data. Each notebook combines technical implementation with visualization and analysis to illustrate both methods and insights.
+A portfolio of data science and machine learning projects applied to behavioral and financial datasets, including psychology-based tendencies from Poor Charlie’s Almanack and large-scale S&P 500 data engineering.
 
 ---
 
