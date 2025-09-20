@@ -28,6 +28,6 @@ Files:
 Demonstrates financial data retrieval, preprocessing, and large-scale analytics using S&P 500 constituent data:
 
 - Automated retrieval, cleaning, and visualization of company fundamentals  
-- Engineered datasets with 100+ features** for cross-sectional and time-series analysis  
+- Engineered datasets with 100+ features for cross-sectional and time-series analysis  
 - Applied a simple investment checklist (cash > debt, growth > 15%, PE < 50)  
   - Backtested 2001–2010 averages — evaluated 2011–2020 performance  
