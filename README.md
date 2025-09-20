@@ -4,7 +4,7 @@ This repository demonstrates applications of data processing and machine learnin
 ---
 
 ## Psychology of Human Misjudgment
-File: `psychological_tendencies.ipynb`
+File: `psychology_of_misjudgment.ipynb`
 
 This notebook demonstrates methods of data processing and machine learning while applying psychology-based tendencies from *Poor Charlie's Almanack.*
 - **Reward and punishment superresponse tendency**: Illustrated using insurance data comparing National Indemnity vs. industry averages. KMeans clustering is applied to premium volume changes and underwriting profits, showing how employee incentive structures led to distinct outcomes.
@@ -14,8 +14,8 @@ This notebook demonstrates methods of data processing and machine learning while
 
 ## Financial Data Processing and Analytics
 Files:
-- `data_preprocessing_analytics_part1.ipynb`
-- `data_preprocessing_analytics_part2.ipynb`
+- `data_processing_analytics_part1.ipynb`
+- `data_processing_analytics_part2.ipynb`
 
 These notebooks demonstrate methods of financial data retrieval, preprocessing, and analytics using S&P 500 constituent data. 
 - Automated retrieval, preprocessing, and visualization of company fundamentals
