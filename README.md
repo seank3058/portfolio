@@ -1,3 +1,8 @@
+# Project Portfolio
+This repository demonstrates applications of data processing, financial analytics, and machine learning. Projects include financial dataset engineering with S&P 500 constituents to applying psychology-based tendencies from *Poor Charlie's Almanack* to real-world business data. Each notebook combines technical implementation with visualization and analysis to illustrate both methods and insights.
+
+---
+
 ## Psychology of Human Misjudgment
 File: `psychology_of_misjudgment.ipynb`
 
@@ -6,6 +11,7 @@ This notebook demonstrates methods of data processing and machine learning while
 - **Doubt-avoidance tendency**: Illustrated with credit card industry data (American Express, Visa, Mastercard). Linear regression examines relationships between cards-in-force, transaction volume, and pretax income, revealing flaws in common assumptions.
 
 ---
+
 ## Financial Data Processing and Analytics
 Files:
 - `data_preprocessing_analytics_part1.ipynb`
